@@ -3,7 +3,7 @@
  * Project: ActiveDirectory :: Control Active Directory with ldap or ldaps
  * File:    ActiveDirectory.php
  *
- * Copyright (c) 2016, JoungKyun.Kim <http://oops.org>
+ * Copyright (c) 2018, JoungKyun.Kim <http://oops.org>
  *
  * LICENSE: BSD
  *
@@ -13,9 +13,8 @@
  * @category   System
  * @package    ActiveDirectory
  * @author     JoungKyun.Kim <http://oops.org>
- * @copyright  (c) 2016 JoungKyun.Kim
+ * @copyright  (c) 2018 JoungKyun.Kim
  * @license    BSD License
- * @version    $Id$
  * @link       http://pear.oops.org/package/ActiveDirectory
  * @filesource
  */
